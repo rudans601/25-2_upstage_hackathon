@@ -1,0 +1,7 @@
+.DS_Store
+.venv-gif/
+__pycache__/
+contact_sheet.png
+segment_*.png
+news_transition.png
+video_transition.png
